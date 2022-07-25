@@ -7,3 +7,6 @@ Se crea el Navbar con estilos CSS y se agrega dentro del componente Navbar.jsx e
 
 ## Creación de ItemListContainer
 En este componente agregaremos los productos del Catalogo.
+
+## Creción de Contador con Boton.
+Compomente ItemCount creado oara agregar la cantidad de productos en el carrito.
