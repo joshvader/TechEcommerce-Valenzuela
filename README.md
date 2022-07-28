@@ -10,3 +10,9 @@ En este componente agregaremos los productos del Catalogo.
 
 ## Creción de Contador con Boton.
 Compomente ItemCount creado oara agregar la cantidad de productos en el carrito.
+
+## Creacíon de ItemList en ItemlistContainer.
+Se crea en el Itemlist el render de la visual de las tarjetas de los productos.
+En ItemlistContainer se agrega el setTimeout de 2 segundo de retraso en la carga de los productos.
+
+
