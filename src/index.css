@@ -83,6 +83,15 @@ header .cart span {
   padding: 10rem 0 0 0;
   color: #715fc2;
 }
+.producto{
+  float: left;
+  margin: 2rem;
+}
+img{
+ width: 300px;
+}
+
+
 /*-------CARRITO------------*/
 .carritos{
   position: fixed;
@@ -194,3 +203,4 @@ header .cart span {
     display:none;
   }
 }
+
